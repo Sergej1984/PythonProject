@@ -1,9 +1,20 @@
 print("hello")
 
+j = 7
+
 for i in range(10):
     print(i)
-from(20)
+
+text = "hello world!"
 
 
-print("Privet!")
-print("hy")
+def foo(n):
+    return n+1
+
+
+print()
+print(foo(9))
+print(i)
+print(j)
+print(text)
+print("test")
